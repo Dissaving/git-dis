@@ -38,19 +38,19 @@
   {
     "productName":"CUCUMBER PEOPLE T-SHIRT",
     "productPrice":23,
-    "productImg":"https://raw.githubusercontent.com/Dissaving/git-dis/master/catalog7.jpg.jpg",
+    "productImg":"https://raw.githubusercontent.com/Dissaving/git-dis/master/catalog7.jpg",
     "productId":"prod_6"
   },
   {
     "productName":"TOMATO PEOPLE T-SHIRT",
     "productPrice":45,
-    "productImg":"https://raw.githubusercontent.com/Dissaving/git-dis/master/catalog8.jpg.jpg",
+    "productImg":"https://raw.githubusercontent.com/Dissaving/git-dis/master/catalog8.jpg",
     "productId":"prod_7"
   },
   {
     "productName":"BLUEBERRY PEOPLE T-SHIRT",
     "productPrice":48,
-    "productImg":"https://raw.githubusercontent.com/Dissaving/git-dis/master/catalog9.jpg.jpg",
+    "productImg":"https://raw.githubusercontent.com/Dissaving/git-dis/master/catalog9.jpg",
     "productId":"prod_8"
   }
 ]
