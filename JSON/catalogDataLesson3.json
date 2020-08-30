@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Notebook",
+    "price": 20000,
+    "img": "https://raw.githubusercontent.com/Dissaving/git-dis/master/img/notebook.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Mouse",
+    "price": 1500,
+    "img": "https://raw.githubusercontent.com/Dissaving/git-dis/master/img/mouse.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Keyboard",
+    "price": 5000,
+    "img": "https://raw.githubusercontent.com/Dissaving/git-dis/master/img/keyboard.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Gamepad",
+    "price": 4500,
+    "img": "https://raw.githubusercontent.com/Dissaving/git-dis/master/img/gamepad.jpg"
+  }
+]
