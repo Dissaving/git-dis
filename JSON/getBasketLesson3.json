@@ -1,0 +1,20 @@
+{
+  "amount": 46600,
+  "countGoods": 2,
+  "contents": [
+    {
+      "id": 1,
+      "title": "Notebook",
+      "price": 20000,
+      "img": "https://raw.githubusercontent.com/Dissaving/git-dis/master/img/notebook.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "title": "Mouse",
+      "price": 1500,
+      "img": "https://raw.githubusercontent.com/Dissaving/git-dis/master/img/mouse.jpg",
+      "quantity": 1
+    }
+  ]
+}
